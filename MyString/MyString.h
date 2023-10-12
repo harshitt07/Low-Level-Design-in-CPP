@@ -13,10 +13,6 @@ class MyString {
         length = _length;
     }
 
-    void setLength(int _length) {
-        length = _length;
-    }
-
     int getLength() {
         return length;
     }
